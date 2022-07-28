@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'myuipage'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4BD2479B2FEB48EEA08F3DC0C822217F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5B0D03DA7F9A4E379BD5099992E713CA }}
           package: '*.jar'
